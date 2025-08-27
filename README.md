@@ -94,9 +94,6 @@ A smart, feature-rich WhatsApp Bot that supports multi-device functionality usin
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.youtube.com/@lrycs">
-    <img src="https://img.shields.io/badge/YouTube-MrUniqueHacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
   <a href="https://t.me/">
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
