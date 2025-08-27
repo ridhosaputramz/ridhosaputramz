@@ -22,7 +22,7 @@
 
 ### 🚀 About Me
 
-- 👨‍🏫 **Professor** — Owner of [Mr Unique Hacker](https://www.youtube.com/@lrycs)
+- 👨‍🏫 **Professor** — Owner of [Mr Lrycs](https://www.youtube.com/@lrycs)
 - 🤖 Creator of **Ridho Saputra Mz** — A Multi-Device WhatsApp Bot
 - 🧠 Tech Enthusiast — Passionate about **Cybersecurity**, **App Dev**, and **Bots**
 - 📹 Content Creator — Tutorials & Tech Hacks on YouTube
