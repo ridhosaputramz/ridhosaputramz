@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
-- 👨‍🏫 **Professor** — Owner of [Mr Lrycs](https://www.youtube.com/@lrycs)
-- 🤖 Creator of **Ridho Saputra Mz** — A Multi-Device WhatsApp Bot
-- 🧠 Tech Enthusiast — Passionate about **Cybersecurity**, **App Dev**, and **Bots**
-- 📹 Content Creator — Tutorials & Tech Hacks on YouTube
+- 👨‍🏫 **Professor** — Owner of [Mr Ridho Saputra Mz](https://www.youtube.com/@lrycs)
+- 🤖 Creator of **Ridho Saputra Mz** 
+- 🧠 Tech Enthusiast — Passionate about **Cybersecurity**, **App Dev**
+- 📹 Content Creator — Tutorials & Tech Coding on YouTube
 - 🌱 Constantly learning new stacks and improving daily!
 
 ---
