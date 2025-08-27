@@ -60,14 +60,15 @@
 
 ### 🏆 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mruniquehacker&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mruniquehacker&theme=radical" />
+[![image](https://github.com/fatkhurrhn/fatkhurrhn/blob/main/dino.gif)](https://fatkhurrhn.vercel.app/)
+
+<p align="left">
+<a href="https://github.com/ridhosaputramz">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatkhurrhn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamachiii&layout=compact&theme=algolia"/>
+</a>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mruniquehacker&layout=compact&theme=radical" />
-</p>
 
 ---
 
