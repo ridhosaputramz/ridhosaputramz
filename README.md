@@ -58,17 +58,6 @@
 
 ---
 
-### ⚡ Featured Project
-
-#### 🛡️ Knight Bot - [Multi-Device WhatsApp Bot](https://github.com/)
-A smart, feature-rich WhatsApp Bot that supports multi-device functionality using Baileys and Node.js.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Knight_Bot-Online-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Knight Bot">
-</p>
-
----
-
 ### 🏆 GitHub Stats
 
 <p align="center">
