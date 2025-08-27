@@ -1,4 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Knight%20Bot&width=1000&height=200)](https://github.com/ridhosaputramz)
 
 <h3 align="center">A Passionate Android, Web & Bot Developer | Cybersecurity Enthusiast</h3>
 
@@ -10,7 +9,7 @@
   <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://whatsapp.com/channel/" target="_blank">
+  <a href="https://wa.me/+6282372194158" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
@@ -97,7 +96,7 @@ A smart, feature-rich WhatsApp Bot that supports multi-device functionality usin
   <a href="https://t.me/">
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://whatsapp.com/channel/">
+  <a href="https://wa.me/+6282372194158">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
